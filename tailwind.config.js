@@ -9,6 +9,8 @@ module.exports = {
       'buttonGreen': '#39DB4A',
       'backgroundWhite': '#FAFAFA',
       'subText': '#4A4A4A',
+      'sectionDscText': '#FF6868',
+      'white': '#FFFFFF',
     },
     extend: {},
   },

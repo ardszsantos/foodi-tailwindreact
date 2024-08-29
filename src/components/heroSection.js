@@ -17,11 +17,11 @@ const HeroSection = () => {
           </button>
             <a href="#" className="flex items-center">
               <p className="text-[26px] text-subText font-semibold">Watch Video</p>
-              <img src="playbutton.png" className="mt-[2.6vw]" ></img>
+            <img src="/images/playbutton.png" className="mt-[2.6vw]" ></img>
             </a>
         </div>
       </div>
-      <img className="pl-[100px]" src="foodiHeroImage.png"></img>
+      <img className="pl-[100px]" src="/images/foodiHeroImage.png"></img>
     </div>
     );
 }
