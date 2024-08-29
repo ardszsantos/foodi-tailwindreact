@@ -8,6 +8,7 @@ module.exports = {
     colors : {
       'buttonGreen': '#39DB4A',
       'backgroundWhite': '#FAFAFA',
+      'subText': '#4A4A4A',
     },
     extend: {},
   },
