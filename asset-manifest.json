@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodi-tailwindreact/static/css/main.620120f5.css",
+    "main.js": "/foodi-tailwindreact/static/js/main.38590466.js",
+    "static/js/453.3875ef61.chunk.js": "/foodi-tailwindreact/static/js/453.3875ef61.chunk.js",
+    "index.html": "/foodi-tailwindreact/index.html",
+    "main.620120f5.css.map": "/foodi-tailwindreact/static/css/main.620120f5.css.map",
+    "main.38590466.js.map": "/foodi-tailwindreact/static/js/main.38590466.js.map",
+    "453.3875ef61.chunk.js.map": "/foodi-tailwindreact/static/js/453.3875ef61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620120f5.css",
+    "static/js/main.38590466.js"
+  ]
+}
