@@ -10,7 +10,7 @@ const PopularCategories = () => {
       <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">
         CUSTOMER FAVORITES
       </p>
-      <h1 className="popH1 text-[60px] font-bold">
+      <h1 className="interFont text-[60px] font-bold">
         Popular Categories
       </h1>
       <div className="mt-20 gap-10 m- popCategoriesCards flex">

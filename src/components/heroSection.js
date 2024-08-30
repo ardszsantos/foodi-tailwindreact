@@ -1,9 +1,9 @@
 
 const HeroSection = () => {
   return (
-    <div className="flex items-center heroContainer mt-16 ml-48">
+    <div className="flex justify-center items-center heroContainer mt-16 ml-33">
       <div className="pb-[130px] pl-[22px] flex flex-col gap-[56px] heroTextContainer">
-        <h1 className="heroH1 text-[62px] font-extrabold	">
+        <h1 className="interFont text-[62px] font-extrabold	">
           Dive into Delights <br />
           Of Delectable 
           <span className="text-buttonGreen"> Food</span>
