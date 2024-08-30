@@ -12,7 +12,7 @@ module.exports = {
       'sectionDscText': '#FF6868',
       'white': '#FFFFFF',
     },
-    extend: {},
+    extend: {   },
   },
   plugins: [],
 }

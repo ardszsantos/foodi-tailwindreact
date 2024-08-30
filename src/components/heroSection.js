@@ -1,3 +1,4 @@
+
 const HeroSection = () => {
   return (
     <div className="flex items-center heroContainer mt-16 ml-48">
@@ -17,11 +18,11 @@ const HeroSection = () => {
           </button>
             <a href="#" className="flex items-center">
               <p className="text-[26px] text-subText font-semibold">Watch Video</p>
-            <img src="/images/playbutton.png" className="mt-[2.6vw]" ></img>
+            <img src="foodi-tailwindreact/images/playbutton.png" alt="" className="mt-[2.6vw]" ></img>
             </a>
         </div>
       </div>
-      <img className="pl-[100px]" src="/images/foodiHeroImage.png"></img>
+      <img className="pl-[100px]" src="foodi-tailwindreact/images/foodiHeroImage.png" alt=""></img>
     </div>
     );
 }

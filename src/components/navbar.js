@@ -1,11 +1,13 @@
 import { useState } from "react";
 
+
+
 const NavBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
   return ( 
     <header className="headerNavBar mt-[47px] items-center flex w-[100vw]">
-        <a href="#"><img className="ml-[180px] mr-[203px] w-[135px] h-[60px]" src='/images/foodi.png' alt="store logo" /></a>
+        <a href="#"><img className="ml-[180px] mr-[203px] w-[135px] h-[60px]" src="foodi-tailwindreact/images/foodi.png" alt="store logo" /></a>
         <nav className="flex items-center justify-between w-full">
         <div className="navAText flex gap-[60px]">
           <a href="#">Home</a>
