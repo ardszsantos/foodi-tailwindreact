@@ -18,11 +18,11 @@ const HeroSection = () => {
           </button>
             <a href="#" className="flex items-center">
               <p className="text-[26px] text-subText font-semibold">Watch Video</p>
-            <img src="foodi-tailwindreact/images/playbutton.png" alt="" className="mt-[2.6vw]" ></img>
+            <img src={`${process.env.PUBLIC_URL}/images/playbutton.png`} alt="" className="mt-[2.6vw]" ></img>
             </a>
         </div>
       </div>
-      <img className="pl-[100px]" src="foodi-tailwindreact/images/foodiHeroImage.png" alt=""></img>
+      <img className="pl-[100px]" src={`${process.env.PUBLIC_URL}/images/foodiHeroImage.png`} alt=""></img>
     </div>
     );
 }

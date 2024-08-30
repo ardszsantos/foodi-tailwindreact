@@ -1,10 +1,10 @@
 import FoodCard from "./assets/card";
 
 const PopularCategories = () => {
-  const img1 = "foodi-tailwindreact/images/burger.png";
-  const img2 = "foodi-tailwindreact/images/sandwich.png";
-  const img3 = "foodi-tailwindreact/images/iceCream.png";
-  const img4 = "foodi-tailwindreact/images/orangeJuice.png";
+  const img1 = `${process.env.PUBLIC_URL}/images/burger.png`;
+  const img2 = `${process.env.PUBLIC_URL}/images/sandwich.png`;
+  const img3 = `${process.env.PUBLIC_URL}/images/iceCream.png`;
+  const img4 = `${process.env.PUBLIC_URL}/images/orangeJuice.png`;
   return ( 
     <div className="flex flex-col items-center mt-24 popContainer text-center">
       <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">
