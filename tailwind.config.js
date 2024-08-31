@@ -11,6 +11,7 @@ module.exports = {
       'subText': '#4A4A4A',
       'sectionDscText': '#FF6868',
       'white': '#FFFFFF',
+      'muted': '#555555'
     },
     extend: {   },
   },
