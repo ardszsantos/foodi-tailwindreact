@@ -4,6 +4,7 @@ import NavBar from './components/navbar';
 import HeroSection from './components/heroSection';
 import PopularCategories from './components/popCategories';
 import DishesSection from './components/dishesSection';
+import TestimonialsSection from './components/testimonials';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <HeroSection/>
       <PopularCategories/>
       <DishesSection/>
+      <TestimonialsSection/>
     </div>
   );
 }

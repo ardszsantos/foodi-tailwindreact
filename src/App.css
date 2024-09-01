@@ -25,3 +25,18 @@ body {
 .headerNavBar {
 font-family: "Poppins", sans-serif;
 }
+
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-slide {
+  animation: slide 500ms ease-in-out forwards;
+}
