@@ -67,7 +67,7 @@ const DishesSection = () => {
   ];
 
   return (
-    <div className="min-h-screen mt-52 ml-60 mainDishesContainer">
+    <div className="min-h-screen mt-36 ml-60 mainDishesContainer">
       <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">
         SPECIAL DISHES
       </p>

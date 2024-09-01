@@ -6,7 +6,7 @@ const PopularCategories = () => {
   const img3 = `${process.env.PUBLIC_URL}/images/iceCream.png`;
   const img4 = `${process.env.PUBLIC_URL}/images/orangeJuice.png`;
   return ( 
-    <div className="flex flex-col items-center mt-24 popContainer text-center">
+    <div className="flex flex-col items-center mt-14 popContainer text-center">
       <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">
         CUSTOMER FAVORITES
       </p>
