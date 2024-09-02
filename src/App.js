@@ -6,6 +6,7 @@ import PopularCategories from './components/popCategories';
 import DishesSection from './components/dishesSection';
 import TestimonialsSection from './components/testimonials';
 import OurStoryServices from './components/storyServices';
+import FooterComponent from './components/footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <DishesSection/>
       <TestimonialsSection/>
       <OurStoryServices/>
+      <FooterComponent/>
     </div>
   );
 }
