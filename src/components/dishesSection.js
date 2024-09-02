@@ -67,7 +67,8 @@ const DishesSection = () => {
   ];
 
   return (
-    <div className="min-h-screen mt-36 ml-60 mainDishesContainer">
+  <div className="flex justify-center">
+    <div className="mt-36 mainDishesContainer">
       <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">
         SPECIAL DISHES
       </p>
@@ -75,7 +76,7 @@ const DishesSection = () => {
         <h1 className="text-left text-[60px] font-bold interFont">
           Standout Dishes<br /> From Our Menu
         </h1>
-        <div className="flex gap-[50px] mr-40">
+        <div className="flex gap-[50px] mr-9">
           <button onClick={handlePrevious}>
             <img src={`${process.env.PUBLIC_URL}/images/dishesButton1.png`} alt="previous-button" />
           </button>
@@ -97,6 +98,7 @@ const DishesSection = () => {
         ))}
       </div>
     </div>
+  </div>
   );
 }
 

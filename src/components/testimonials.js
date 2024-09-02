@@ -2,7 +2,7 @@ import StarIcon from "./assets/starSVG";
 
 const TestimonialsSection = () => {
   return ( 
-    <div className="flex justify-center items-center mt-[110px] interFont">
+    <div className="flex gap-[156px] justify-center items-center mt-[110px] interFont">
       <img src={`${process.env.PUBLIC_URL}/images/chef.png`}/>
       <div className="flex flex-col">
         <p className="mb-[29px] popUpperText text-[20px] font-bold text-sectionDscText">

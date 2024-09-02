@@ -5,6 +5,7 @@ import HeroSection from './components/heroSection';
 import PopularCategories from './components/popCategories';
 import DishesSection from './components/dishesSection';
 import TestimonialsSection from './components/testimonials';
+import OurStoryServices from './components/storyServices';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <PopularCategories/>
       <DishesSection/>
       <TestimonialsSection/>
+      <OurStoryServices/>
     </div>
   );
 }

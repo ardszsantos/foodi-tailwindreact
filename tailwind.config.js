@@ -12,7 +12,8 @@ module.exports = {
       'sectionDscText': '#FF6868',
       'white': '#FFFFFF',
       'muted': '#555555',
-      'moreMuted': '#807E7E'
+      'moreMuted': '#807E7E',
+      'cardSubText': '#90BD95'
     },
     extend: {   },
   },
