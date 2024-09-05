@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/foodi-tailwindreact/static/css/main.620120f5.css",
-    "main.js": "/foodi-tailwindreact/static/js/main.ce6f9b67.js",
+    "main.css": "/foodi-tailwindreact/static/css/main.65e16959.css",
+    "main.js": "/foodi-tailwindreact/static/js/main.1a8ac165.js",
     "static/js/453.3875ef61.chunk.js": "/foodi-tailwindreact/static/js/453.3875ef61.chunk.js",
     "index.html": "/foodi-tailwindreact/index.html",
-    "main.620120f5.css.map": "/foodi-tailwindreact/static/css/main.620120f5.css.map",
-    "main.ce6f9b67.js.map": "/foodi-tailwindreact/static/js/main.ce6f9b67.js.map",
+    "main.65e16959.css.map": "/foodi-tailwindreact/static/css/main.65e16959.css.map",
+    "main.1a8ac165.js.map": "/foodi-tailwindreact/static/js/main.1a8ac165.js.map",
     "453.3875ef61.chunk.js.map": "/foodi-tailwindreact/static/js/453.3875ef61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.620120f5.css",
-    "static/js/main.ce6f9b67.js"
+    "static/css/main.65e16959.css",
+    "static/js/main.1a8ac165.js"
   ]
 }
