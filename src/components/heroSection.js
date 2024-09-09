@@ -1,8 +1,8 @@
 
 const HeroSection = () => {
   return (
-    <div className="flex justify-center items-center heroContainer mt-16 ml-33">
-      <div className="pb-[130px] pl-[22px] flex flex-col gap-[56px] heroTextContainer">
+    <div className="flex justify-center items-center heroContainer mt-16 ml-33  below-xl:mt-22 ">
+      <div className="pb-[130px] pl-[22px] flex flex-col gap-[56px] heroTextContainer below-lg:justify-center">
         <h1 className="interFont text-[62px] font-extrabold	">
           Dive into Delights <br />
           Of Delectable 
@@ -22,7 +22,7 @@ const HeroSection = () => {
             </a>
         </div>
       </div>
-      <img className="pl-[100px]" src={`${process.env.PUBLIC_URL}/images/foodiHeroImage.png`} alt=""></img>
+      <img className="pl-[100px] below-xl:hidden" src={`${process.env.PUBLIC_URL}/images/foodiHeroImage.png`} alt=""></img>
     </div>
     );
 }

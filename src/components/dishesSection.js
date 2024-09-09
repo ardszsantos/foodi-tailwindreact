@@ -85,7 +85,7 @@ const DishesSection = () => {
           </button>
         </div>
       </div>
-      <div className="justify-start mt-[63px] flex gap-[5.7rem]">
+        <div className="justify-start mt-[63px] flex gap-[5.7rem] below-xl:flex below-xl:flex-col">
         {visibleDishes.map((dish, index) => (
           <DishesCard
             key={index}
